@@ -15,12 +15,12 @@ public class VowelConsonantChecker {
 System.out.println(letter + " is a vowel");
                  } else {
                     
- System.out.println(letter + " is a consonant");
+System.out.println(letter + " is a consonant");
                 }
             }
             input.close();
-        }
-    }
+     }
+ }
   
     
 
